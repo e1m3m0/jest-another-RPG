@@ -1,4 +1,3 @@
-const { default: expectationResultFactory } = require('jest-jasmine2/build/expectationResultFactory');
 const Potion = require('../lib/Potion.js');
 
 test('creates a health potion object', () => {
